@@ -8,9 +8,8 @@
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a passionate **Full Stack Developer** specializing in **MERN** & **Django** stacks.
+- 💼 I'm a passionate **Full Stack Developer** specializing in **MERN** stack.
 - 🛠️ I love building full-fledged web applications, both frontend and backend.
-- 🌱 Currently exploring **AI**, **cloud deployment**, and **system design**.
 - 💡 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 - 📍 Based in India | 🧠 Always learning something new!
 
