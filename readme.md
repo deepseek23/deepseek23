@@ -41,8 +41,7 @@
 
 Here are a few projects I’m proud of:
 
-- 🎵 **Offline Music Streaming Web App** – No internet? No problem. Built using React, Node.js, and local databases.
-- 🏫 **Student Attendance & Lecture Tracker** – A robust system with admin/teacher dashboards built on Django.
+- 💊 **Pharmacy Management System** – A complete inventory and billing solution for pharmacies.
 - 📊 **Instagram Sentiment Analyzer** – AI-powered analysis of social media trends with NLP.
 
 > 📌 *More projects on the way – check out my pinned repositories!*
