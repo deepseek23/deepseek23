@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Tarun Munjani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Django+%7C+MongoDB+%7C+PostgreSQL;Lifelong+learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB+%7C+MongoDB;Lifelong+learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" />
 </p>
 
 ---
