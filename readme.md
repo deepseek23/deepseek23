@@ -2,54 +2,50 @@
 
 <p align="center">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Lifelong+learner+%F0%9F%93%9A;Open+Source+Enthusiast+%F0%9F%8C%90" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+%7C+Django+%7C+Flask+%7C+SQL;Data+Science+and+Web+Backend+Developer;Always+Learning+%F0%9F%93%9A" 
   alt="Typing animation showing developer skills" 
 />
-
-
-
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 I'm a passionate **Full Stack Developer** specializing in **MERN** stack.
-- 🛠️ I love building full-fledged web applications, both frontend and backend.
-- 💡 I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
-- 📍 Based in India | 🧠 Always learning something new!
+- 🤖 Aspiring **Machine Learning Engineer** with hands-on experience in ML model building and data preprocessing.
+- 🧠 Skilled in **Python, Machine Learning, NLP**, and integrating ML models into web applications.
+- 🔥 Backend development using **Django & Flask**, database handling with **SQL/MySQL**.
+- 📍 Based in India | 🚀 Constantly learning, experimenting & building real-world AI solutions.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Frameworks:**
+**Core Skills & Tools (AI/ML):**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
+![NLP](https://img.shields.io/badge/-NLP-ffae42?style=flat)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+**Backend & Web Frameworks:**  
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 
-**Database & Tools:**
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+**Database & Tools:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
 
 ---
 
 ### 🚀 Projects
 
-Here are a few projects I’m proud of:
+- 🧠 **Sentiment Analysis of Posts** – Classifies text using **VADER NLP** and visualizes sentiment distribution.  
+- 🌿 **Carbon Footprint Tracker** – Django-based web system to estimate & track user emissions with SQL storage.  
+- 💊 **Pharmacy Management System** – Java & MySQL solution for stock management, billing & customer records.
 
-- 💊 **Pharmacy Management System** – A complete inventory and billing solution for pharmacies.
-- 📊 **Instagram Sentiment Analyzer** – AI-powered analysis of social media trends with NLP.
-
-> 📌 *More projects on the way – check out my pinned repositories!*
+> 📌 More AI-based projects coming soon. Stay tuned!
 
 ---
 
@@ -69,4 +65,4 @@ Here are a few projects I’m proud of:
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+> *“Predict the future with data — build it with code.”* 🔥
