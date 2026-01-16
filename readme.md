@@ -29,7 +29,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 ![Transformers](https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat)
-![BERT](https://img.shields.io/badge/-BERT-005571?style=flat)
 ![LLMs](https://img.shields.io/badge/-LLMs-0A0A0A?style=flat)
 
 **Backend & Web:**  
