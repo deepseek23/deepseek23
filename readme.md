@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;AI+%7C+Django+%7C+Flask+%7C+SQL;Data+Science+and+Web+Backend+Developer;Always+Learning+%F0%9F%93%9A" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;AI+%7C+NLP+%7C+Transformers+%7C+Django;Backend+and+Data+Science+Developer;Always+Learning+and+Building" 
   alt="Typing animation showing developer skills" 
 />
 </p>
@@ -11,28 +11,33 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 Aspiring **Machine Learning Engineer** with hands-on experience in ML model building and data preprocessing.
-- 🧠 Skilled in **Python, Machine Learning, NLP**, and integrating ML models into web applications.
-- 🔥 Backend development using **Django & Flask**, database handling with **SQL/MySQL**.
-- 📍 Based in India | 🚀 Constantly learning, experimenting & building real-world AI solutions.
+- 🤖 Aspiring **Machine Learning / NLP Engineer** focused on real model building, not just tutorials.
+- 🧠 Strong in **Python, Machine Learning, NLP, Transformers (BERT, LLMs)**.
+- 🔥 Backend development with **Django, Flask, REST APIs**, model deployment.
+- 🗄️ Databases: **SQL, MySQL**.
+- 📍 India | Building projects that are actually production-grade, not toy demos.
 
 ---
 
 ### 🧰 Tech Stack
 
-**Core Skills & Tools (AI/ML):**  
+**AI / ML / NLP:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat)
-![NLP](https://img.shields.io/badge/-NLP-ffae42?style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![Transformers](https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat)
+![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat)
+![BERT](https://img.shields.io/badge/-BERT-005571?style=flat)
+![LLMs](https://img.shields.io/badge/-LLMs-0A0A0A?style=flat)
 
-**Backend & Web Frameworks:**  
+**Backend & Web:**  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 
-**Database & Tools:**  
+**Database & Dev Tools:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
@@ -41,19 +46,19 @@
 
 ### 🚀 Projects
 
-- 🧠 **Sentiment Analysis of Posts** – Classifies text using **VADER NLP** and visualizes sentiment distribution.  
-- 🌿 **Carbon Footprint Tracker** – Django-based web system to estimate & track user emissions with SQL storage.  
-- 💊 **Pharmacy Management System** – Java & MySQL solution for stock management, billing & customer records.
-
-> 📌 More AI-based projects coming soon. Stay tuned!
+- 🔍 **BERT-based Sentiment Analyzer** – Fine-tuned Transformer model, REST API with Django, deployed locally.
+- 📄 **Resume Parser (NLP + NER)** – SpaCy + Transformers to extract skills, education, experience.
+- 💬 **LLM Chatbot with RAG** – FAISS vector DB, Sentence-Transformers, Flask backend.
+- 🌿 **Carbon Footprint Tracker** – Django + SQL, analytics dashboard.
+- 💊 **Pharmacy Management System** – Java + MySQL.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepseek23&show_icons=true&theme=radical&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepseek23&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepseek23&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepseek23&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="160" />
 </p>
 
 ---
@@ -65,4 +70,4 @@
 
 ---
 
-> *“Predict the future with data — build it with code.”* 🔥
+> *"Don’t just use AI. Understand it. Build it. Deploy it."*
