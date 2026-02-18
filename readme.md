@@ -55,10 +55,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepseek23&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepseek23&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="160" />
-</p>
+<p><img align="left" src="https://github-readme-stats-lyart-kappa-72.vercel.app/api/top-langs?username=nowarkcodes&show_icons=true&theme=dark&locale=en&layout=compact" alt="nowarkcodes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-lyart-kappa-72.vercel.app/api?username=nowarkcodes&show_icons=true&theme=dark&locale=en" alt="nowarkcodes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.demolab.com/?user=nowarkcodes&theme=dark" alt="nowarkcodes" /></p>
 
 ---
 
