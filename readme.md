@@ -45,9 +45,7 @@
 
 ### 🚀 Projects
 
-- 🔍 **BERT-based Sentiment Analyzer** – Fine-tuned Transformer model, REST API with Django, deployed locally.
-- 📄 **Resume Parser (NLP + NER)** – SpaCy + Transformers to extract skills, education, experience.
-- 💬 **LLM Chatbot with RAG** – FAISS vector DB, Sentence-Transformers, Flask backend.
+- 🔍 **Vader-based Sentiment Analyzer** – Fine-tuned Vader model, REST API with Flask, deployed locally.
 - 🌿 **Carbon Footprint Tracker** – Django + SQL, analytics dashboard.
 - 💊 **Pharmacy Management System** – Java + MySQL.
 
