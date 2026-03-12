@@ -46,7 +46,7 @@
 
 - 🎬 **Movie Recommendation System** – NLP-Based movie recommendation engine.
 - 🔍 **Vader-based Sentiment Analyzer** – Fine-tuned Vader model, REST API with Flask, deployed locally.
-- 🌿 **Carbon Footprint Tracker** – Django and Scikit.
+- 🌿 **Carbon Footprint Tracker** – An ML-powered Django app that estimates an individual's annual carbon footprint.
 - 💊 **Pharmacy Management System** – Java + MySQL.
 
 ---
