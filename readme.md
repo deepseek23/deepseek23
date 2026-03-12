@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer+in+Progress;AI+%7C+NLP+%7C+Transformers+%7C+Django;Backend+and+Data+Science+Developer;Always+Learning+and+Building" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;AI+%7C+NLP+%7C+Transformers+%7C+FastAPI;Backend+and+Data+Science+Developer;Always+Learning+and+Building" 
   alt="Typing animation showing developer skills" 
 />
 </p>
@@ -11,9 +11,9 @@
 
 ### 👨‍💻 About Me
 
-- 🤖 Aspiring **Machine Learning / NLP Engineer** focused on real model building, not just tutorials.
+- 🤖 Aspiring **AI/ML Engineer** focused on real model building, not just tutorials.
 - 🧠 Strong in **Python, Machine Learning, NLP, Transformers (BERT, LLMs)**.
-- 🔥 Backend development with **Django, Flask, REST APIs**, model deployment.
+- 🔥 Backend development with **FastAPI, REST APIs**, model deployment.
 - 🗄️ Databases: **SQL, MySQL**.
 - 📍 India | Building projects that are actually production-grade, not toy demos.
 
@@ -26,14 +26,13 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Transformers](https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat)
 ![LLMs](https://img.shields.io/badge/-LLMs-0A0A0A?style=flat)
 
 **Backend & Web:**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
 
 **Database & Dev Tools:**  
@@ -45,8 +44,9 @@
 
 ### 🚀 Projects
 
-- 🔍 **Vader-based Sentiment Analyzer** – Fine-tuned Vader model, REST API with Flask, deployed locally.
-- 🌿 **Carbon Footprint Tracker** – Django + SQL, analytics dashboard.
+- 🎬 **Movie Recommendation System** – AI-powered movie recommendation engine.
+- 🔍 **Vader-based Sentiment Analyzer** – Fine-tuned Vader model, REST API with FastAPI, deployed locally.
+- 🌿 **Carbon Footprint Tracker** – FastAPI + SQL, analytics dashboard.
 - 💊 **Pharmacy Management System** – Java + MySQL.
 
 ---
