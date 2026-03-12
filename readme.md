@@ -44,9 +44,9 @@
 
 ### 🚀 Projects
 
-- 🎬 **Movie Recommendation System** – AI-powered movie recommendation engine.
-- 🔍 **Vader-based Sentiment Analyzer** – Fine-tuned Vader model, REST API with FastAPI, deployed locally.
-- 🌿 **Carbon Footprint Tracker** – FastAPI + SQL, analytics dashboard.
+- 🎬 **Movie Recommendation System** – NLP-Based movie recommendation engine.
+- 🔍 **Vader-based Sentiment Analyzer** – Fine-tuned Vader model, REST API with Flask, deployed locally.
+- 🌿 **Carbon Footprint Tracker** – Django and Scikit.
 - 💊 **Pharmacy Management System** – Java + MySQL.
 
 ---
