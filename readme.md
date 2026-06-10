@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;AI+%7C+NLP+%7C+Transformers+%7C+FastAPI;Backend+and+Data+Science+Developer;Always+Learning+and+Building" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+in+Progress;AI+%7C+NLP+%7C+Transformers+%7C+FastAPI"
   alt="Typing animation showing developer skills" 
 />
 </p>
@@ -27,6 +27,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
 ![Transformers](https://img.shields.io/badge/-HuggingFace%20Transformers-FFD21E?logo=huggingface&logoColor=black&style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat)
@@ -34,6 +35,7 @@
 
 **Backend & Web:**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 **Database & Dev Tools:**  
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat)
@@ -67,4 +69,4 @@
 
 ---
 
-> *"Don’t just use AI. Understand it. Build it. Deploy it."*
+> *"Don't just use AI. Understand it. Build it. Deploy it."*
